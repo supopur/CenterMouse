@@ -1,8 +1,8 @@
 # CenterMouse
 This code centers the mouse
 ## Requirements
-Python
-pyautogui
+- Python
+- pyautogui
 ## How to install
 1. Install python
 2. Open command line/terminal
