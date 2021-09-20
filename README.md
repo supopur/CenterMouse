@@ -2,18 +2,16 @@
 This code centers the mouse
 ## Requirements
 - Python
-- pyautogui
+- Pip
 ## How to install
 1. Install python
-2. Open command line/terminal
-3. Type "pip install pyautogui"
+2. Open the file install.bat
 ## How to run
-1. Open the command line/shell or terminal in the folder that you put main.py in
-2. Type "python main.py"
+1. Open the file start.bat
 ## Controlls
 - q to center the mouse
 ## How to stop
-- In task manager
+- Open the command line window where the script is running and press Ctrl + C
 ## Todo
 - Better linux support (add install.sh and possibly start.sh)
 - I'm considering a gui
