@@ -14,3 +14,6 @@ This code centers the mouse
 - q to center the mouse
 ## How to stop
 - In task manager
+## Todo
+- Better linux support (add install.sh and possibly start.sh)
+- I'm considering a gui
