@@ -8,7 +8,7 @@ This code centers the mouse
 2. Open the file install.bat
 ## How to run
 1. Open the file start.bat
-## Controlls
+## Controls
 - q to center the mouse
 ## How to stop
 - Open the command line window where the script is running and press Ctrl + C
