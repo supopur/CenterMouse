@@ -3,6 +3,7 @@ echo don't worry about errors
 pip install pyautogui
 pip install keyboard
 pip install time
+pip install tkinter
 echo if you saw any errors don't panic
 echo Do you want to launch the script? (y/n)
 set /p Input=Enter Yes or No:
