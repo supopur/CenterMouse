@@ -7,7 +7,14 @@ def center():
     x, y= pyautogui.size()
     x /= 2 
     y /= 2
-    
+
+    ws = Tk()
+    ws.title('Mouse center')
+    def stop():
+        ws.destroy()
+        sys.exit(W+'Successfully stopped'+W)
+    Button(ws, text="Stop", command=stop).pack(pady=20)
+    ws.mainloop()
 
     
     while True:
@@ -22,19 +29,15 @@ def center():
         else: #if you wanna fix the script sometimes not registering key presses remove this line
             time.sleep(.1) #and this line too
     
-def gui():
-    ws = Tk()
-    ws.title('Mouse center')
-    
-    Button(ws, text="Subscribe", command=ws.destroy).pack(pady=20)
-    ws.mainloop()
+
+            
             
 try:
     import pyautogui
     import keyboard
     import time
     from tkinter import *
-    import threading
+    import sys
 except:
     print(R+'ERROR IMPORTING MODULES'+W)
 else:
