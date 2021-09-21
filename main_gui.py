@@ -35,12 +35,11 @@ def center():
             
             
 try:
-    
+    import pyautogui
     import keyboard
     import time
     from tkinter import *
     import sys
-    import pyautogui
     
 except:
     print(R+'ERROR IMPORTING MODULES'+W)
