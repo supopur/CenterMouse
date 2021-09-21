@@ -4,7 +4,7 @@ pip install pyautogui
 pip install keyboard
 pip install time
 pip install tkinter
-pip install threading
+pip install sys
 echo if you saw any errors don't panic
 echo Do you want to launch the script? (y/n)
 set /p Input=Enter Yes or No:
