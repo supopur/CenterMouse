@@ -8,9 +8,9 @@ This code centers the mouse
 2. Open the file install.bat
 3. Then you can choose if you wan't to launch the script (with y/n)
 ## How to run
-### Non GUI version LTS
+### Non GUI version (LTS)
 - Open the file start_no_gui.bat
-### GUI version STS
+### GUI version (STS)
 - Open the file start_with_gui.bat
 ## Controls
 - q to center the mouse
