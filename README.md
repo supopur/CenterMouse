@@ -11,9 +11,9 @@ This code centers the mouse
 ## Controls
 - q to center the mouse
 ## How to stop
-# Non GUI (terminal)
+### Non GUI (terminal)
 - Open the command line window where the script is running and press Ctrl + C
-# With GUI
+### With GUI
 - Just switch to the center mouse window and press the button that says ''
 ## Todo
 - Better linux support (add install.sh and possibly start.sh)
